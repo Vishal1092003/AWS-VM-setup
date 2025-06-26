@@ -1,4 +1,4 @@
-# README: SSH into AWS EC2 Instance
+## SSH into AWS EC2 Instance
 
 This README describes how to securely connect from your local machine to an AWS EC2 instance using SSH.
 
