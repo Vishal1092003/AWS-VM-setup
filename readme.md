@@ -123,7 +123,7 @@ events {}
 http {
   server {
     listen 80;  # Public HTTP port
-    server_name backedn;  # Your domain name
+    server_name backend.chitrabindoo.com;  # Your domain name
 
     location / {
       proxy_pass http://localhost:8080;  # Forward requests to backend
